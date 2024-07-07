@@ -1,0 +1,22 @@
+
+body {
+  background: #e5e7eb
+}
+
+.single-post{
+    width: 1000px;
+    background: #fff;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.title {
+  color: #940fec;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.single-post img{
+    width: 100%;
+}
+
